@@ -4,12 +4,5 @@ env/
 .pytest_cache/
 
 *.db
-*.sqlite3
-
 .env
 *.pem
-private_key.pem
-public_key.pem
-
-.DS_Store
-Thumbs.db
